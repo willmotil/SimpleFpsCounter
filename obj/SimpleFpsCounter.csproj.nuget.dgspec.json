@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\will\\MainFiles\\MyProjects2020\\SimpleFpsCounter\\SimpleFpsCounter.csproj": {}
+    "C:\\Users\\will\\MainFiles\\GitPrjs\\SimpleFpsCounter\\SimpleFpsCounter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\will\\MainFiles\\MyProjects2020\\SimpleFpsCounter\\SimpleFpsCounter.csproj": {
+    "C:\\Users\\will\\MainFiles\\GitPrjs\\SimpleFpsCounter\\SimpleFpsCounter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\will\\MainFiles\\MyProjects2020\\SimpleFpsCounter\\SimpleFpsCounter.csproj",
+        "projectUniqueName": "C:\\Users\\will\\MainFiles\\GitPrjs\\SimpleFpsCounter\\SimpleFpsCounter.csproj",
         "projectName": "SimpleFpsCounter",
-        "projectPath": "C:\\Users\\will\\MainFiles\\MyProjects2020\\SimpleFpsCounter\\SimpleFpsCounter.csproj",
+        "projectPath": "C:\\Users\\will\\MainFiles\\GitPrjs\\SimpleFpsCounter\\SimpleFpsCounter.csproj",
         "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\will\\MainFiles\\MyProjects2020\\SimpleFpsCounter\\obj\\",
+        "outputPath": "C:\\Users\\will\\MainFiles\\GitPrjs\\SimpleFpsCounter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
